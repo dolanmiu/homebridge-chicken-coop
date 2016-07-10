@@ -1,0 +1,22 @@
+{
+    "name": "homebridge-chickencoop",
+    "version": "0.0.0",
+    "description": "Homebridge plugin for an Arduino for automating a chicken coop",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dolanmiu/homebridge-chicken-coop.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "keywords": [
+        "homebridge-chicken-coop"
+    ],
+    "bugs": {
+        "url": "https://github.com/dolanmiu/homebridge-chicken-coop/issues"
+    },
+    "homepage": "https://github.com/dolanmiu/homebridge-chicken-coop#readme"
+}
